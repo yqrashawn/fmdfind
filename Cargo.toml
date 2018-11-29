@@ -1,0 +1,9 @@
+[package]
+name = "fmdfind"
+version = "0.1.0"
+authors = ["yqrashawn <namy.19@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+regex = "1"
+shellexpand = "1.0"
